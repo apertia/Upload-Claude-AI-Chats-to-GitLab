@@ -14,7 +14,7 @@ This Tampermonkey script allows you to easily upload your Claude AI chats to a G
 ## Installation
 
 1. Make sure you have the Tampermonkey browser extension installed in your web browser.
-2. Open the [raw script file](https://raw.githubusercontent.com/username/repo/main/upload-claude-ai-chats-to-gitlab.user.js) from the GitHub repository.
+2. Open the [raw script file](https://raw.githubusercontent.com/apertia/upload-claude-chat-to-gitlab/main/upload-to-gitlab.js) from the GitHub repository.
 3. Copy the script source
 1. Open Tampermonkey in your browser and click the Add Script tab (icon with a plus symbol)
 1. Paste the source into the script window and hit save
